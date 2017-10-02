@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="correcta">CORRECT ANSWER!</string>
+    <string name="incorrecta">WRONG ANSWER!</string>
+    <string name="s_pregunta">What is the biggest state in the USA?</string>
+    <string name="s_titulo">Question:</string>
+    <string name="s_button">CHECK</string>
+</resources>

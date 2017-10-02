@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">Test</string>
+<string name="s_titulo">Pregunta:</string>
+<string name="s_pregunta">Cuál és el estado más grande de USA?</string>
+<string name="s_button">COMPROBAR</string>
+<string name="correcta">RESPUESTA CORRECTA!</string>
+<string name="incorrecta">RESPUESTA INCORRECTA!</string>
+<array name="res">
+    <item>California</item>
+    <item>Alaska</item>
+    <item>Massachusetts</item>
+    <item>Florida</item>
+</array>
+</resources>
